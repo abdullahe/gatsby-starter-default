@@ -16,6 +16,7 @@ module.exports = {
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
+<<<<<<< HEAD
       resolve: "gatsby-plugin-webpack-bundle-analyser-v2",
       options: {
         devMode: true,
@@ -23,6 +24,8 @@ module.exports = {
       },
     },
     {
+=======
+>>>>>>> 063978d59f74103da45d5880a61ebd2e77798e3c
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `gatsby-starter-default`,
